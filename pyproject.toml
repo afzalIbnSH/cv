@@ -1,0 +1,14 @@
+[project]
+authors = [
+  {name = "Afzal Shahul Hameed", email = "afzal@blend.to"},
+]
+dependencies = ["pypdf2 (>=3.0.1,<4.0.0)", "reportlab (>=4.4.1,<5.0.0)"]
+description = "CV of Afzal Shahul Hameed A. K."
+name = "cv-afzal-ibn-sh"
+readme = "README.md"
+requires-python = ">=3.12,<4"
+version = "0.0.1"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=2.0.0,<3.0.0"]
