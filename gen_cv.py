@@ -31,8 +31,11 @@ WORK EXPERIENCE
 
 Senior Software Engineer — Locus.sh, Bangalore, India
 Jan 2025 – Present
-- Building a RAG-based agentic service on OpenAI’s CUA for interactive Locus dashboard navigation.
-- Stack: Python, FastAPI, OpenAI, MongoDB, Qdrant.
+Building the RAG-powered backend of an Agentic-AI software that
+- can respond to queries based on the company knowledge base
+- can navigate through the Locus dashboard on behalf of the user (computer-use)
+- call APIs across core Locus services wrapped in MCP-inspired tools to accomplish tasks via prompts
+Stack: Python, FastAPI, LLMs, MongoDB and Qdrant.
 
 Senior Software Engineer — Blend, Bangalore, India
 Feb 2022 – Jun 2024
@@ -85,6 +88,6 @@ pdf_canvas.showPage()
 pdf_canvas.save()
 
 # Save PDF to file
-output_path = "Afzal_Shahul_Hameed_CV_May2025.pdf"
+output_path = "Afzal_Shahul_Hameed_CV_Sep2025.pdf"
 with open(output_path, "wb") as f:
     f.write(buffer.getvalue())
