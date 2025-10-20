@@ -31,11 +31,7 @@ WORK EXPERIENCE
 
 Senior Software Engineer — Locus.sh, Bangalore, India
 Jan 2025 – Present
-Building the RAG-powered backend of an Agentic-AI software that
-- can respond to queries based on the company knowledge base
-- can navigate through the Locus dashboard on behalf of the user (computer-use)
-- call APIs across core Locus services wrapped in MCP-inspired tools to accomplish tasks via prompts
-Stack: Python, FastAPI, LLMs, MongoDB and Qdrant.
+- Built the initial RAG-powered backend of an Agentic-AI experiment with Python, FastAPI, LLMs, MongoDB and Qdrant.
 
 Senior Software Engineer — Blend, Bangalore, India
 Feb 2022 – Jun 2024
