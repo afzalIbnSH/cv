@@ -84,6 +84,6 @@ pdf_canvas.showPage()
 pdf_canvas.save()
 
 # Save PDF to file
-output_path = "Afzal_Shahul_Hameed_CV_Sep2025.pdf"
+output_path = "Afzal_Shahul_Hameed_CV_Nov2025.pdf"
 with open(output_path, "wb") as f:
     f.write(buffer.getvalue())
