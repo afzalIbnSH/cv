@@ -11,8 +11,8 @@ LinkedIn: linkedin.com/in/afzalshahulhameed
 
 SUMMARY
 Senior Backend Engineer with 9 years of experience designing and building scalable systems
-across fast-moving startups and product-driven teams. Proficient in Python and Node.js,
-with working knowledge of Go and a strong foundation in cloud-native architectures on AWS.
+across fast-moving startups and product-driven teams. Proficient in Python and Node.js with
+a strong foundation in cloud-native architectures on AWS and familiarity with Go and Java.
 
 I have successfully contributed to a wide range of domains, from AI-powered platforms and
 data infrastructure to internal tools and customer-facing applications. I've built services
@@ -20,8 +20,8 @@ from scratch, resolved critical issues and optimized performance. Actively focus
 product impact through robust architecture and thoughtful engineering.
 
 SKILLS
-- Languages: Python, Node.js, TypeScript, Go (basic)
-- Frameworks: FastAPI, NestJS, Express, Django
+- Languages: Python, Node.js, TypeScript, Java, Go
+- Frameworks: FastAPI, NestJS, Express, Django, Spring Boot
 - Tools & Tech: AWS (Lambda, S3, API Gateway, DynamoDB, SQS), PostgreSQL, MongoDB, Redis,
   Clickhouse, Milvus, Retool, RevenueCat, Qdrant, Rudderstack, Google BigQuery.
 - Practices: System Design, Microservices, Event-Driven Architectures, API Design,
@@ -32,6 +32,7 @@ WORK EXPERIENCE
 Senior Software Engineer — Locus.sh, Bangalore, India
 Jan 2025 – Present
 - Built the initial RAG-powered backend of an Agentic-AI experiment with Python, FastAPI, LLMs, MongoDB and Qdrant.
+- Wrote a Java/Spring Boot proxy service over Novu to be the central space for sending out notifications.
 
 Senior Software Engineer — Blend, Bangalore, India
 Feb 2022 – Jun 2024
